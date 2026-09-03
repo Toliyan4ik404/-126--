@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Toliyan4ik404.github.io/-126-
+ baseUrl: Toliyan4ik404.github.io
   ignorePatterns:
     - private
     - templates
